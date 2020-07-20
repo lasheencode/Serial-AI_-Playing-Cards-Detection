@@ -13,7 +13,6 @@ For this project we will classifying and creating bounding boxes around images o
  - Images of cards have been placed on many different background for optimal training
  
 **Dataset:**
-
 https://www.kaggle.com/hugopaigneau/playing-cards-dataset
 
 **Task:**
