@@ -12,8 +12,5 @@ For this project we will classifying and creating bounding boxes around images o
  - High quality images
  - Images of cards have been placed on many different background for optimal training
 
-**Dataset:**
-https://github.com/lasheencode/Serial-AI_NLP-with-Disaster-Tweets
-
 **Task:**
  - Predict the type of cards in each image of the test set, draw bounding boxes around each box. EDA(Exploratory data analysis) is a must.
